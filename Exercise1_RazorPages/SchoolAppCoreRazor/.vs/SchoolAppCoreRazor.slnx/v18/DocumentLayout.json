@@ -1,0 +1,1069 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C818D8-19B7-4DD5-92F5-5EE9586429C6}|SchoolAppCoreRazor.csproj|f:\\hk2 25-26\\cnpm\\lab8\\exercise1_razorpages\\schoolappcorerazor\\pages\\courses\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1C818D8-19B7-4DD5-92F5-5EE9586429C6}|SchoolAppCoreRazor.csproj|solutionrelative:pages\\courses\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C818D8-19B7-4DD5-92F5-5EE9586429C6}|SchoolAppCoreRazor.csproj|f:\\hk2 25-26\\cnpm\\lab8\\exercise1_razorpages\\schoolappcorerazor\\pages\\courses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1C818D8-19B7-4DD5-92F5-5EE9586429C6}|SchoolAppCoreRazor.csproj|solutionrelative:pages\\courses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Enrollments\\Index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Enrollments\\Index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Enrollments\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Enrollments\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Enrollments\\Delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Enrollments\\Delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Enrollments\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Enrollments\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Enrollments\\Details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Enrollments\\Details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Enrollments\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Enrollments\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Enrollments\\Edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Enrollments\\Edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Enrollments\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Enrollments\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Enrollments\\Create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Enrollments\\Create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Enrollments\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Enrollments\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Instructors\\Index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Instructors\\Index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Instructors\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Instructors\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Instructors\\Delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Instructors\\Delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Instructors\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Instructors\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Instructors\\Details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Instructors\\Details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Instructors\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Instructors\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Instructors\\Edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Instructors\\Edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Instructors\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Instructors\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Instructors\\Create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Instructors\\Create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Instructors\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Instructors\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Courses\\Index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Courses\\Index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Courses\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Courses\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Courses\\Delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Courses\\Delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Courses\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Courses\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Courses\\Details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Courses\\Details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Courses\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Courses\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Courses\\Edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Courses\\Edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Courses\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Courses\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Students\\Index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Students\\Index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Students\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Students\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Students\\Delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Students\\Delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Students\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Students\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Students\\Details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Students\\Details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Students\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Students\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Students\\Edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Students\\Edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Students\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Students\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Students\\Create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Students\\Create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Students\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Students\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Departments\\Index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Departments\\Index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Departments\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Departments\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Departments\\Delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Departments\\Delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Departments\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Departments\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Departments\\Details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Departments\\Details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Departments\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Departments\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Departments\\Edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Departments\\Edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Departments\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Departments\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Departments\\Create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Departments\\Create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Departments\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Departments\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C818D8-19B7-4DD5-92F5-5EE9586429C6}|SchoolAppCoreRazor.csproj|f:\\hk2 25-26\\cnpm\\lab8\\exercise1_razorpages\\schoolappcorerazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1C818D8-19B7-4DD5-92F5-5EE9586429C6}|SchoolAppCoreRazor.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C818D8-19B7-4DD5-92F5-5EE9586429C6}|SchoolAppCoreRazor.csproj|f:\\hk2 25-26\\cnpm\\lab8\\exercise1_razorpages\\schoolappcorerazor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F1C818D8-19B7-4DD5-92F5-5EE9586429C6}|SchoolAppCoreRazor.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Migrations\\20260401101806_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260401101806_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C818D8-19B7-4DD5-92F5-5EE9586429C6}|SchoolAppCoreRazor.csproj|f:\\hk2 25-26\\cnpm\\lab8\\exercise1_razorpages\\schoolappcorerazor\\models\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1C818D8-19B7-4DD5-92F5-5EE9586429C6}|SchoolAppCoreRazor.csproj|solutionrelative:models\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C818D8-19B7-4DD5-92F5-5EE9586429C6}|SchoolAppCoreRazor.csproj|f:\\hk2 25-26\\cnpm\\lab8\\exercise1_razorpages\\schoolappcorerazor\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1C818D8-19B7-4DD5-92F5-5EE9586429C6}|SchoolAppCoreRazor.csproj|solutionrelative:models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C818D8-19B7-4DD5-92F5-5EE9586429C6}|SchoolAppCoreRazor.csproj|f:\\hk2 25-26\\cnpm\\lab8\\exercise1_razorpages\\schoolappcorerazor\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1C818D8-19B7-4DD5-92F5-5EE9586429C6}|SchoolAppCoreRazor.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C818D8-19B7-4DD5-92F5-5EE9586429C6}|SchoolAppCoreRazor.csproj|f:\\hk2 25-26\\cnpm\\lab8\\exercise1_razorpages\\schoolappcorerazor\\models\\errorviewmodel .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1C818D8-19B7-4DD5-92F5-5EE9586429C6}|SchoolAppCoreRazor.csproj|solutionrelative:models\\errorviewmodel .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C818D8-19B7-4DD5-92F5-5EE9586429C6}|SchoolAppCoreRazor.csproj|f:\\hk2 25-26\\cnpm\\lab8\\exercise1_razorpages\\schoolappcorerazor\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1C818D8-19B7-4DD5-92F5-5EE9586429C6}|SchoolAppCoreRazor.csproj|solutionrelative:models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C818D8-19B7-4DD5-92F5-5EE9586429C6}|SchoolAppCoreRazor.csproj|f:\\hk2 25-26\\cnpm\\lab8\\exercise1_razorpages\\schoolappcorerazor\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1C818D8-19B7-4DD5-92F5-5EE9586429C6}|SchoolAppCoreRazor.csproj|solutionrelative:models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C818D8-19B7-4DD5-92F5-5EE9586429C6}|SchoolAppCoreRazor.csproj|f:\\hk2 25-26\\cnpm\\lab8\\exercise1_razorpages\\schoolappcorerazor\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1C818D8-19B7-4DD5-92F5-5EE9586429C6}|SchoolAppCoreRazor.csproj|solutionrelative:models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C818D8-19B7-4DD5-92F5-5EE9586429C6}|SchoolAppCoreRazor.csproj|f:\\hk2 25-26\\cnpm\\lab8\\exercise1_razorpages\\schoolappcorerazor\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1C818D8-19B7-4DD5-92F5-5EE9586429C6}|SchoolAppCoreRazor.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Enrollments\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Enrollments\\Delete.cshtml.cs",
+              "ToolTip": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Enrollments\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\Enrollments\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T10:25:27.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Enrollments\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Enrollments\\Delete.cshtml",
+              "ToolTip": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Enrollments\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Enrollments\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-01T10:25:27.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Courses\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Courses\\Create.cshtml",
+              "ToolTip": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Courses\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Courses\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-01T10:24:09.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Courses\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Courses\\Create.cshtml.cs",
+              "ToolTip": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Courses\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Courses\\Create.cshtml.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAmwCgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T10:24:10Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Enrollments\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Enrollments\\Index.cshtml",
+              "ToolTip": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Enrollments\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Enrollments\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-01T10:25:27.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Enrollments\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Enrollments\\Index.cshtml.cs",
+              "ToolTip": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Enrollments\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Enrollments\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T10:25:27.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Enrollments\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Enrollments\\Details.cshtml.cs",
+              "ToolTip": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Enrollments\\Details.cshtml.cs",
+              "RelativeToolTip": "Pages\\Enrollments\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T10:25:27.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Enrollments\\Details.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Enrollments\\Details.cshtml",
+              "ToolTip": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Enrollments\\Details.cshtml",
+              "RelativeToolTip": "Pages\\Enrollments\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-01T10:25:27.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Enrollments\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Enrollments\\Edit.cshtml.cs",
+              "ToolTip": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Enrollments\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Enrollments\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T10:25:27.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Enrollments\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Enrollments\\Edit.cshtml",
+              "ToolTip": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Enrollments\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Enrollments\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-01T10:25:26.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Enrollments\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Enrollments\\Create.cshtml.cs",
+              "ToolTip": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Enrollments\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Enrollments\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T10:25:26.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Enrollments\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Enrollments\\Create.cshtml",
+              "ToolTip": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Enrollments\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Enrollments\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-01T10:25:26.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Instructors\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Instructors\\Index.cshtml.cs",
+              "ToolTip": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Instructors\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Instructors\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T10:24:49.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Instructors\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Instructors\\Index.cshtml",
+              "ToolTip": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Instructors\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Instructors\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-01T10:24:49.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Instructors\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Instructors\\Delete.cshtml.cs",
+              "ToolTip": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Instructors\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\Instructors\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T10:24:49.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Instructors\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Instructors\\Delete.cshtml",
+              "ToolTip": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Instructors\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Instructors\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-01T10:24:49.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Instructors\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Instructors\\Details.cshtml.cs",
+              "ToolTip": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Instructors\\Details.cshtml.cs",
+              "RelativeToolTip": "Pages\\Instructors\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T10:24:49.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Instructors\\Details.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Instructors\\Details.cshtml",
+              "ToolTip": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Instructors\\Details.cshtml",
+              "RelativeToolTip": "Pages\\Instructors\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-01T10:24:49.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Instructors\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Instructors\\Edit.cshtml.cs",
+              "ToolTip": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Instructors\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Instructors\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T10:24:49.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Instructors\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Instructors\\Edit.cshtml",
+              "ToolTip": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Instructors\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Instructors\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-01T10:24:48.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Instructors\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Instructors\\Create.cshtml.cs",
+              "ToolTip": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Instructors\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Instructors\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T10:24:48.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Instructors\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Instructors\\Create.cshtml",
+              "ToolTip": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Instructors\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Instructors\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-01T10:24:48.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Courses\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Courses\\Index.cshtml.cs",
+              "ToolTip": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Courses\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Courses\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T10:24:10.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Courses\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Courses\\Index.cshtml",
+              "ToolTip": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Courses\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Courses\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-01T10:24:10.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Courses\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Courses\\Delete.cshtml.cs",
+              "ToolTip": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Courses\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\Courses\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T10:24:10.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Courses\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Courses\\Delete.cshtml",
+              "ToolTip": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Courses\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Courses\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-01T10:24:10.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Courses\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Courses\\Details.cshtml.cs",
+              "ToolTip": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Courses\\Details.cshtml.cs",
+              "RelativeToolTip": "Pages\\Courses\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T10:24:10.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Courses\\Details.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Courses\\Details.cshtml",
+              "ToolTip": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Courses\\Details.cshtml",
+              "RelativeToolTip": "Pages\\Courses\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-01T10:24:10.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Courses\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Courses\\Edit.cshtml.cs",
+              "ToolTip": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Courses\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Courses\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T10:24:10.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Courses\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Courses\\Edit.cshtml",
+              "ToolTip": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Courses\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Courses\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-01T10:24:10.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Students\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Students\\Index.cshtml.cs",
+              "ToolTip": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Students\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Students\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T10:23:40.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Students\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Students\\Index.cshtml",
+              "ToolTip": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Students\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Students\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-01T10:23:40.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Students\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Students\\Delete.cshtml.cs",
+              "ToolTip": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Students\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\Students\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T10:23:39.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Students\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Students\\Delete.cshtml",
+              "ToolTip": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Students\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Students\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-01T10:23:39.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Students\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Students\\Details.cshtml.cs",
+              "ToolTip": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Students\\Details.cshtml.cs",
+              "RelativeToolTip": "Pages\\Students\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T10:23:39.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Students\\Details.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Students\\Details.cshtml",
+              "ToolTip": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Students\\Details.cshtml",
+              "RelativeToolTip": "Pages\\Students\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-01T10:23:39.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Students\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Students\\Edit.cshtml.cs",
+              "ToolTip": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Students\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Students\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T10:23:39.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Students\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Students\\Edit.cshtml",
+              "ToolTip": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Students\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Students\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-01T10:23:39.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Students\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Students\\Create.cshtml.cs",
+              "ToolTip": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Students\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Students\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T10:23:39.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Students\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Students\\Create.cshtml",
+              "ToolTip": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Students\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Students\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-01T10:23:39.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Departments\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Departments\\Index.cshtml.cs",
+              "ToolTip": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Departments\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Departments\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T10:22:19.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Departments\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Departments\\Index.cshtml",
+              "ToolTip": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Departments\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Departments\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-01T10:22:19.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Departments\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Departments\\Delete.cshtml.cs",
+              "ToolTip": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Departments\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\Departments\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T10:22:19.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Departments\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Departments\\Delete.cshtml",
+              "ToolTip": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Departments\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Departments\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-01T10:22:19.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Departments\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Departments\\Details.cshtml.cs",
+              "ToolTip": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Departments\\Details.cshtml.cs",
+              "RelativeToolTip": "Pages\\Departments\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T10:22:19.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Departments\\Details.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Departments\\Details.cshtml",
+              "ToolTip": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Departments\\Details.cshtml",
+              "RelativeToolTip": "Pages\\Departments\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-01T10:22:18.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Departments\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Departments\\Edit.cshtml.cs",
+              "ToolTip": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Departments\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Departments\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T10:22:18.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Departments\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Departments\\Edit.cshtml",
+              "ToolTip": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Departments\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Departments\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-01T10:22:18.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Departments\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Departments\\Create.cshtml.cs",
+              "ToolTip": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Departments\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Departments\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T10:22:18.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Departments\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Departments\\Create.cshtml",
+              "ToolTip": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Departments\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Departments\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-01T10:22:17.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "20260401101806_InitialCreate.cs",
+              "DocumentMoniker": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Migrations\\20260401101806_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260401101806_InitialCreate.cs",
+              "ToolTip": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Migrations\\20260401101806_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20260401101806_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T10:18:06.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T10:08:46.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Models\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "Models\\SchoolContext.cs",
+              "ToolTip": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Models\\SchoolContext.cs",
+              "RelativeToolTip": "Models\\SchoolContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T10:08:01.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-01T10:04:49.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Models\\Enrollment.cs",
+              "RelativeDocumentMoniker": "Models\\Enrollment.cs",
+              "ToolTip": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Models\\Enrollment.cs",
+              "RelativeToolTip": "Models\\Enrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T10:07:43.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Student.cs",
+              "DocumentMoniker": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T10:07:23.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ErrorViewModel .cs",
+              "DocumentMoniker": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Models\\ErrorViewModel .cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel .cs",
+              "ToolTip": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Models\\ErrorViewModel .cs",
+              "RelativeToolTip": "Models\\ErrorViewModel .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T10:07:05.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Models\\Instructor.cs",
+              "RelativeDocumentMoniker": "Models\\Instructor.cs",
+              "ToolTip": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Models\\Instructor.cs",
+              "RelativeToolTip": "Models\\Instructor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T10:06:37.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Course.cs",
+              "DocumentMoniker": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Models\\Course.cs",
+              "ToolTip": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Models\\Course.cs",
+              "RelativeToolTip": "Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T10:06:12.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Department.cs",
+              "DocumentMoniker": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Models\\Department.cs",
+              "ToolTip": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Models\\Department.cs",
+              "RelativeToolTip": "Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T10:05:35.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\HK2 25-26\\CNPM\\Lab8\\Exercise1_RazorPages\\SchoolAppCoreRazor\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAqwCcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-01T10:04:54.352Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
